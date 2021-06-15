@@ -6,8 +6,10 @@ This project is used to check the similarity level between two group of curve us
 - [Procrustes Analysis](#Procrustes_Analysis)  
 
 # **Frechet distance**
+According to [1], in mathematics, the Fréchet distance is a measure of similarity between curves that takes into account the location and ordering of the points along the curves.
 
 # **Procrustes Analysis**
+In statistics, Procrustes analysis is a form of statistical shape analysis used to analyse the distribution of a set of shapes [2]. According to this, to compare two curves, the curves must be first optimally "super-imposed". It means that the curve is optimally translated, rotated and uniformly scaled.
 
 # **Results**
 Some of results representing the level of similarity of two curves in several scenarios are depicted below.
