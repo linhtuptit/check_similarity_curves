@@ -14,11 +14,13 @@ In statistics, Procrustes analysis is a form of statistical shape analysis used 
 # **Results**
 Some of results representing the level of similarity of two curves in several scenarios are depicted below.
 
-![slp.png](/output/slp.png?raw=true)
+![similarity1.jpg](/output/similarity1.jpg?raw=true)
 
-![slp.png](/output/slp.png?raw=true)
+![similarity2.jpg](/output/similarity2.jpg?raw=true)
 
-![slp.png](/output/slp.png?raw=true)
+![similarity3.jpg](/output/similarity3.jpg?raw=true)
+
+![similarity4.jpg](/output/similarity4.jpg?raw=true)
 
 # **Reference**
 - [1] Frechet distance: https://en.wikipedia.org/wiki/Fr%C3%A9chet_distance
